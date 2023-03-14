@@ -1,4 +1,6 @@
-# Sentiment_Analysis_In_Russian
+# sentiment_analysis_in_russian
+
+# Overview
 As is stated in the description of this repo, it was created with an aim of storing Python code for the Master's thesis regarding sentiment analysis in the Russian language.
 
 The whole work is comprised of steps in the given order.
